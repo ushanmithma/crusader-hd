@@ -1,0 +1,75 @@
+
+.chd-about-main {
+	width: 1200px;
+	margin: 40px 0 30px 0;
+}
+
+.chd-about-photo {
+	float: left;
+	width: 100px;
+}
+
+.chd-about-photo img {
+	float: left;
+	border-radius: 100%;
+	width: 100px;
+}
+
+.chd-about-text {
+	height: 100px;
+	width: 200px;
+	float: left;
+}
+
+.chd-about-text h3 {
+	line-height: 170%;
+}
+
+.chd-about-text h2 {
+	line-height: 170%;
+}
+
+.chd-about-web-site {
+	width: 1200px;
+	margin: 0 0 30px 0;
+}
+
+.chd-about-web-site a button {
+	width: 300px;
+	height: 40px;
+	border: none;
+	background: red;
+	font-size: 20px;
+	color: #fff;
+	-webkit-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+.chd-about-web-site a button:hover {
+	background: maroon;
+	cursor: pointer;
+}
+
+.chd-about-web-site a {
+	margin: 0 150px 0 0;
+}
+
+.chd-about-web-site a:last-child {
+	margin: 0;
+}
+
+.chd-about-us {
+	width: 1200px;
+	margin: 0 0 40px 0;
+}
+
+.chd-about-us p {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-about-crusader-hd {
+	margin: 30px 0;
+}

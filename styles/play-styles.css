@@ -1,0 +1,52 @@
+
+.chd-game-play-main {
+	width: 1200px;
+}
+
+.chd-game-play-main-head {
+	margin: 40px 0;
+}
+
+.chd-game-play-main p {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-game-play-main-char {
+	margin: 40px 0;
+}
+
+.chd-game-play-manual {
+	width: 1200px;
+	margin: 0 0 40px 0;
+}
+
+.chd-game-play-manual-pdf {
+	margin: 40px 0;
+}
+
+.chd-game-play-manual-download {
+	width: 1200px;
+}
+
+.chd-game-play-manual-download a {
+	font-size: 20px;
+	line-height: 140%;
+	color: brown;
+	text-decoration: none;
+}
+
+.chd-game-play-screenshot {
+	margin: 0 0 30px 0;
+	width: 1200px;
+}
+
+.chd-game-play-screenshot-head {
+	margin: 0 0 40px 0;
+}
+
+.chd-game-play-screenshot img {
+	width: 800px;
+	margin: 0 200px 10px 200px;
+}

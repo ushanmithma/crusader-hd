@@ -1,0 +1,53 @@
+
+.chd-content-head {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.chd-content-head img {
+	width: 600px;
+	margin: 40px 300px;
+}
+
+.chd-sam-img {
+	width: 620px;
+	float: left;
+}
+
+.chd-sam-img img {
+	margin: 0 10px 0 0;
+	width: 300px;
+}
+
+.chd-content p {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-content-exp {
+	margin: 30px 0;
+}
+
+.chd-content-list ul {
+	margin: 30px 0 30px 20px;
+}
+
+.chd-content-list ul li {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-content-menu {
+	margin: 0 0 30px 0;
+}
+
+.chd-view {
+	width: 1200px;
+}
+
+.chd-vid {
+	margin: 40px 300px;
+	width: 600px;
+}

@@ -1,0 +1,88 @@
+
+.chd-game-head {
+	margin: 40px 0;
+}
+
+.chd-sys-req ul {
+	margin: 30px 0 30px 20px;
+}
+
+.chd-sys-req ul li {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-download-content-head {
+	word-spacing: 30px;
+	text-transform: uppercase;
+	font-size: 70px;
+	color: red;
+	text-align: center;
+}
+
+.chd-download-content {
+	width: 1200px;
+	margin: 30px 0 40px 0;
+}
+
+.chd-download-content p {
+	font-size: 20px;
+	line-height: 140%;
+	color: #444;
+}
+
+.chd-download-content-define {
+	line-height: 140%;
+	text-transform: uppercase;
+	margin: 0 0 30px 0;
+}
+
+.d_count {
+	width: 1200px;
+	margin: 0 0 40px 0;
+}
+
+.d_count h3 {
+	color: #444;
+	text-transform: uppercase;
+}
+
+.chd-download-task {
+	width: 1200px;
+	margin: 0 0 40px 0;
+}
+
+.chd-download-butt {
+	width: 534px;
+	float: left;
+}
+
+.chd-download-butt button {
+	float: left;
+	font-size: 40px;
+	background: red;
+	border: none;
+	text-transform: uppercase;
+	-webkit-transition-duration: 0.4s;
+	-o-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	width: 300px;
+	height: 80px;
+}
+
+.chd-download-butt button:hover {
+	background: maroon;
+	color: #fff;
+}
+
+.chd-devol {
+	width: 600px;
+	float: right;
+}
+
+.chd-devol img {
+	float: right;
+	width: 122px;
+}
